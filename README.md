@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sandhiya-krishnamoorthy/sandhiya-krishnamoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # 💫 About Me:
 🔭 I’m currently working on Node JS , SQL , sqlite3 and Full Stack Developement<br>👯 I’m looking to collaborate on Web Developement Projects<br>🤝 I’m looking for help with Flutter , React JS and MERN Development<br>🌱 I’m currently learning Web Scrapping and Big data analytics<br>💬 Ask me about web related things<br>⚡ Fun fact I'm a crazy nerd
 
